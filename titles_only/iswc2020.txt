@@ -1,0 +1,22 @@
+ISWC '20: 2020 ACM International Symposium on Wearable Computers, Virtual Event, Mexico, September 12-17, 2020
+Towards deep clustering of human activities from wearables
+Design and evaluation of a wearable assistive technology for hemianopic stroke patients
+Fatigue assessment using ECG and actigraphy sensors
+GastroDigitalShirt: a smart shirt for digestion acoustics monitoring
+A wearable magnetic field based proximity sensing system for monitoring COVID-19 social distancing
+Intraoral temperature and inertial sensing in automated dietary assessment: a feasibility study
+FLECTILE: 3D-printable soft actuators for wearable computing
+Towards a characterisation of emotional intent during scripted scenes using in-ear movement sensors
+Face mask design to mitigate facial expression occlusion
+Masked reconstruction based self-supervision for human activity recognition
+Digging deeper: towards a better understanding of transfer learning for human activity recognition
+Field study of a tactile sound awareness device for deaf users
+Eslucent: an eyelid interface for detecting eye blinking
+Wearable magnetic field sensing for finger tracking
+Smartwatch-based topic suggestions to enrich casual conversations in awkward encounters
+Design space and usability of earable prototyping
+Coil design for wireless power transfer and communication over hinges of smart glasses
+Conversational greeting detection using captioning on head worn displays versus smartphones
+BraceIO: biosensing through hydrogel dental ligatures
+Online survey study on social perceptions towards color-changing on-skin displays
+Snacap: snacking behavior monitoring with smart fabric mechanomyography on the temporalis

@@ -1,0 +1,211 @@
+WSDM '22: The Fifteenth ACM International Conference on Web Search and Data Mining, Virtual Event / Tempe, AZ, USA, February 21 - 25, 2022
+Ethical Challenges in AI
+Knowledge is Power: Symbolic Knowledge Distillation, Commonsense Morality, & Multimodal Script Knowledge
+Graph Neural Network Research at AWS AI
+k-Clustering with Fair Outliers
+Wikipedia Reader Navigation: When Synthetic Data Is Enough
+Harvesting More Answer Spans from Paragraph beyond Annotation
+Sampling Multiple Nodes in Large Networks: Beyond Random Walks
+'It's on the tip of my tongue': A new Dataset for Known-Item Retrieval
+CAN: Feature Co-Action Network for Click-Through Rate Prediction
+Towards Understanding and Answering Comparative Questions
+Graph Collaborative Reasoning
+A Personalized Cross-Platform Post Style Transfer Method Based on Transformer and Bi-Attention Mechanism
+Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation
+Estimating Causal Effects of Multi-Aspect Online Reviews with Multi-Modal Proxies
+Causal Mediation Analysis with Hidden Confounders
+AdaptKT: A Domain Adaptable Method for Knowledge Tracing
+An Adaptive Unified Allocation Framework for Guaranteed Display Advertising
+The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets?
+S-Walk: Accurate and Scalable Session-based Recommendation with Random Walks
+ANTHEM: Attentive Hyperbolic Entity Model for Product Search
+Beyond NED: Fast and Effective Search Space Reduction for Complex Question Answering over Knowledge Bases
+Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels
+Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
+Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction
+Improving Personalized Search with Dual-Feedback Network
+Combinatorial Bandits under Strategic Manipulations
+Understanding and Improvement of Adversarial Training for Network Embedding from an Optimization Perspective
+Semi-supervised Stance Detection of Tweets Via Distant Network Supervision
+External Evaluation of Ranking Models under Extreme Position-Bias
+Modeling Users' Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search
+Variational User Modeling with Slow and Fast Features
+How Do You Test a Test?: A Multifaceted Examination of Significance Tests
+Efficient Graph Convolution for Joint Node Representation Learning and Clustering
+Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking
+HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling
+Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning
+Differentially Private Ensemble Classifiers for Data Streams
+Multi-Scale Variational Graph AutoEncoder for Link Prediction
+Learning Multi-granularity Consecutive User Intent Unit for Session-based Recommendation
+Outside In: Market-aware Heterogeneous Graph Neural Network for Employee Turnover Prediction
+Dy-HIEN: Dynamic Evolution based Deep Hierarchical Intention Network for Membership Prediction
+Keyword Assisted Embedded Topic Model
+It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences Are Dynamic
+POLE: Polarized Embedding for Signed Networks
+Triangle Graph Interest Network for Click-through Rate Prediction
+On Generalizing Static Node Embedding to Dynamic Settings
+KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification
+Leveraging World Events to Predict E-Commerce Consumer Demand under Anomaly
+GAGE: Geometry Preserving Attributed Graph Embeddings
+Query Interpretations from Entity-Linked Segmentations
+An Unsupervised Detection Framework for Chinese Jargons in the Darknet
+ConsistSum: Unsupervised Opinion Summarization with the Consistency of Aspect, Sentiment and Semantic
+Cluster-Aware Heterogeneous Information Network Embedding
+Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model
+Introducing the Expohedron for Efficient Pareto-optimal Fairness-Utility Amortizations in Repeated Rankings
+Multi-Resolution Attention for Personalized Item Search
+Linear, or Non-Linear, That is the Question!
+Efficient Two-stage Label Noise Reduction for Retrieval-based Tasks
+Differential Query Semantic Analysis: Discovery of Explicit Interpretable Knowledge from E-Com Search Logs
+Collaborative Curating for Discovery and Expansion of Visual Clusters
+A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation
+Unsupervised Cross-Domain Adaptation for Response Selection Using Self-Supervised and Adversarial Training
+RecGURU: Adversarial Learning of Generalized User Representations for Cross-Domain Recommendation
+Graph Embedding with Hierarchical Attentive Membership
+Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks
+Improving Knowledge Tracing with Collaborative Information
+An Ensemble Model for Combating Label Noise
+Non-stationary Continuum-armed Bandits for Online Hyperparameter Optimization
+The Multi-vehicle Ride-Sharing Problem
+Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks
+RLMob: Deep Reinforcement Learning for Successive Mobility Prediction
+ComGA: Community-Aware Attributed Graph Anomaly Detection
+VAE++: Variational AutoEncoder for Heterogeneous One-Class Collaborative Filtering
+Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem
+Diversified Subgraph Query Generation with Group Fairness
+Learning Fair Node Representations with Graph Counterfactual Fairness
+Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation
+Fast Learning of MNL Model from General Partial Rankings with Application to Network Formation Modeling
+Pretraining Multi-modal Representations for Chinese NER Task with Cross-Modality Attention
+Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations
+Learning Relevant Questions for Conversational Product Search using Deep Reinforcement Learning
+MTLTS: A Multi-Task Framework To Obtain Trustworthy Summaries From Crisis-Related Microblogs
+Reconfiguration Problems on Submodular Functions
+Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation
+Reinforcement Learning over Sentiment-Augmented Knowledge Graphs towards Accurate and Explainable Recommendation
+EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs
+Scope-aware Re-ranking with Gated Attention in Feed
+Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation
+A Simple but Effective Bidirectional Framework for Relational Triple Extraction
+Time Masking for Temporal Language Models
+On Sampling Collaborative Filtering Datasets
+Understanding and Mitigating the Effect of Outliers in Fair Ranking
+Enumerating Fair Packages for Group Recommendations
+Retrieving Black-box Optimal Images from External Databases
+Evaluating Mixed-initiative Conversational Search Systems via User Simulation
+Diversified Query Generation Guided by Knowledge Graph
+Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs
+Using Conjunctions for Faster Disjunctive Top-k Queries
+Attributed Graph Modeling with Vertex Replacement Grammars
+Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce
+Show Me the Whole World: Towards Entire Item Space Exploration for Interactive Personalized Recommendations
+Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning
+Efficient Reachability Query with Extreme Labeling Filter
+MonLAD: Money Laundering Agents Detection in Transaction Streams
+Graph Few-shot Class-incremental Learning
+Uncovering Causal Effects of Online Short Videos on Consumer Behaviors
+Friend Story Ranking with Edge-Contextual Local Graph Convolutions
+DAME: Domain Adaptation for Matching Entities
+A New Class of Polynomial Activation Functions of Deep Learning for Precipitation Forecasting
+Learning-To-Ensemble by Contextual Rank Aggregation in E-Commerce
+Knowledge Enhanced Sports Game Summarization
+MtCut: A Multi-Task Framework for Ranked List Truncation
+A Sequence-to-Sequence Model for Large-scale Chinese Abbreviation Database Construction
+Personalized Long-distance Fuel-efficient Route Recommendation Through Historical Trajectories Mining
+Hierarchical Imitation Learning via Subgoal Representation Learning for Dynamic Treatment Recommendation
+Structure Meets Sequences: Predicting Network of Co-evolving Sequences
+Scalable Graph Topology Learning via Spectral Densification
+Profiling the Design Space for Graph Neural Networks based Collaborative Filtering
+Contrastive Meta Learning with Behavior Multiplicity for Recommendation
+A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising
+Crowdsourcing-based Multi-Device Communication Cooperation for Mobile High-Quality Video Enhancement
+Improving the Applicability of Knowledge-Enhanced Dialogue Generation Systems by Using Heterogeneous Knowledge from Multiple Sources
+Towards Unbiased and Robust Causal Ranking for Recommender Systems
+Long Short-Term Temporal Meta-learning in Online Recommendation
+A Peep into the Future: Adversarial Future Encoding in Recommendation
+Supervised Advantage Actor-Critic for Recommender Systems
+Informed Multi-context Entity Alignment
+Identifying Cost-effective Debunkers for Multi-stage Fake News Mitigation Campaigns
+MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition
+Translating Human Mobility Forecasting through Natural Language Generation
+Lightweight Composite Re-Ranking for Efficient Keyword Search with BERT
+Few-shot Link Prediction in Dynamic Networks
+MAVE: A Product Dataset for Multi-source Attribute Value Extraction
+Interpretable Relation Learning on Heterogeneous Graphs
+Fast Semantic Matching via Flexible Contextualized Interaction
+Assessing Algorithmic Biases for Musical Version Identification
+Directed Network Embedding with Virtual Negative Edges
+Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations
+Sentiment Analysis of Fashion Related Posts in Social Media
+Community Trend Prediction on Heterogeneous Graph in E-commerce
+Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval
+Geometric Inductive Matrix Completion: A Hyperbolic Approach with Unified Message Passing
+ESC-GAN: Extending Spatial Coverage of Physical Sensors
+MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information
+Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling
+Learning Concept Prerequisite Relations from Educational Data via Multi-Head Attention Variational Graph Auto-Encoders
+A GNN-based Multi-task Learning Framework for Personalized Video Search
+GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning
+CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction
+PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion
+A Counterfactual Modeling Framework for Churn Prediction
+Towards Fair Classifiers Without Sensitive Attributes: Exploring Biases in Related Features
+ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction
+Multi-Sparse-Domain Collaborative Recommendation via Enhanced Comprehensive Aspect Preference Learning
+Joint Learning of E-commerce Search and Recommendation with a Unified Graph Neural Network
+AngHNE: Representation Learning for Bipartite Heterogeneous Networks with Angular Loss
+Learning Transferable Node Representations for Attribute Extraction from Web Documents
+C²-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System
+Fighting Mainstream Bias in Recommender Systems via Local Fine Tuning
+Personalized Transfer of User Preferences for Cross-domain Recommendation
+DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning
+A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion
+Improving Session Search by Modeling Multi-Granularity Historical Query Change
+Improving Text Generation via Neural Discourse Planning
+Robust Graph Learning for Misbehavior Detection
+GNNs for Node Clustering in Signed and Directed Networks
+Towards Practical Robustness Evaluation and Robustness Enhancing
+From Uni-relational to Multi-relational Graph Neural Networks
+Trustworthy Machine Learning: Fairness and Robustness
+Obtaining Robust Models from Imbalanced Data
+Fair Graph Representation Learning with Imbalanced and Biased Data
+Doctoral Consortium of WSDM'22: Exploring the Bias of Adversarial Defenses
+Quality Assurance of a German COVID-19 Question Answering Systems using Component-based Microbenchmarking
+iLFQA: A Platform for Efficient and Accurate Long-Form Question Answering
+Web Search via an Efficient and Effective Brain-Machine Interface
+Aligning the Research and Practice of Building Search Applications: Elasticsearch and Pyserini
+Building Multi-turn Query Interpreters for E-commercial Chatbots with Sparse-to-dense Attentive Modeling
+Automating ETL and Mining of Ethereum Blockchain Network
+a2RegInf: An Interactive System for Maximizing Influence within Arbitrary Number of Arbitrary Shaped Query Regions
+Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction
+PrivacyCheck v3: Empowering Users with Higher-Level Understanding of Privacy Policies
+RGRecSys: A Toolkit for Robustness Evaluation of Recommender Systems
+Fair-SRS: A Fair Session-based Recommendation System
+Crowd_Frame: A Simple and Complete Framework to Deploy Complex Crowdsourcing Tasks Off-the-shelf
+An Interactive Knowledge Graph Based Platform for COVID-19 Clinical Research
+Personalized Information Retrieval for Touristic Attractions in Augmented Reality
+Search and Discovery in Personal Email Collections
+Graph Minimally-supervised Learning
+Graph Neural Networks for Recommender System
+A Tutorial on Stance Detection
+Half-Day Tutorial on Combating Online Hate Speech: The Role of Content, Networks, Psychology, User Behavior, etc
+Fact-Checking, Fake News, Propaganda, Media Bias, and the COVID-19 Infodemic
+Modern Theoretical Tools for Understanding and Designing Next-generation Information Retrieval System
+The Pit Stop Problem: How to Plan Your Next Road Trip
+Predicting Users' Gender and Age based on Mobile Tasks
+Towards a Cross-domain Semantically Interoperable Ecosystem
+Exploration in Recommender Systems
+Studying Long-Term User Behaviour Using Dynamic Time Warping for Customer Retention
+AI & Public Data for Humanitarian and Emergency Response
+Scalable Attribute Extraction at Instacart
+A Practical Guide to Robust Multimodal Machine Learning and Its Application in Education
+Mining Frequent Patterns on Knowledge Graphs
+Near Real Time AI Personalization for Notifications at LinkedIn
+Successes and Opportunities in Enterprise AI
+Experiments with Predictive Long Term Guardrail Metrics
+Challenges in Data Production for AI with Human-in-the-Loop
+Rethink e-Commerce Search
+The Incentives Platform at Lyft
+Graph Neural Networks for the Global Economy with Microsoft DeepGraph
+The Rise of Data Observability: Architecting the Future of Data Trust

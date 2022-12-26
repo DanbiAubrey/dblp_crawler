@@ -1,0 +1,159 @@
+WSDM '21, The Fourteenth ACM International Conference on Web Search and Data Mining, Virtual Event, Israel, March 8-12, 2021
+Some Thoughts on Computational Natural Language in the 21st Century
+Beyond Web Search: How Email Search is Different and Why it Matters
+Harnessing Big Data for Personalized Medicine
+Population-Scale Study of Human Needs During the COVID-19 Pandemic: Analysis and Implications
+Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging
+Towards Ordinal Suicide Ideation Detection on Social Media
+DeepXML: A Deep Extreme Multi-Label Learning Framework Applied to Short Text Documents
+Semi-Supervised Text Classification via Self-Pretraining
+DECAF: Deep Extreme Classification with Label Features
+Modeling Across-Context Attention For Long-Tail Query Classification in E-commerce
+On the Impact of Predicate Complexity in Crowdsourced Classification Tasks
+Beyond Point Estimate: Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems
+Popularity-Opportunity Bias in Collaborative Filtering
+A Black-Box Attack Model for Visually-Aware Recommender Systems
+Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users
+Real-time Relevant Recommendation Suggestion
+User Response Models to Improve a REINFORCE Recommender System
+Diverse User Preference Elicitation with Multi-Armed Bandits
+RePBubLik: Reducing Polarized Bubble Radius with Link Insertions
+Node Similarity Preserving Graph Convolutional Networks
+BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks
+Deconfounding with Networked Observational Data in a Dynamic Environment
+Balanced Influence Maximization in the Presence of Homophily
+Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network
+Online Experimentation with Surrogate Metrics: Guidelines and a Case Study
+CONQ: CONtinuous Quantile Treatment Effects for Large-Scale Online Controlled Experiments
+Causal Transfer Random Forest: Combining Logged Data and Randomized Experiments for Robust Prediction
+Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records
+Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets
+Shifting Consumption towards Diverse Content on Music Streaming Platforms
+Chebyshev Accelerated Spectral Clustering
+Theoretical Understandings of Product Embedding for E-commerce Machine Learning
+Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation
+Long-Term Effect Estimation with Surrogate Representation
+PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval
+Bilateral Variational Autoencoder for Collaborative Filtering
+Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study
+Generating Tips from Product Reviews
+Discovering Undisclosed Paid Partnership on Social Media via Aspect-Attentive Sponsored Post Learning
+Quotebank: A Corpus of Quotations from a Decade of News
+Abstractive Opinion Tagging
+Contextualizing Trending Entities in News Stories
+Question Rewriting for Conversational Question Answering
+Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation
+Denoising Implicit Feedback for Recommendation
+Origin-Aware Next Destination Recommendation with Personalized Preference Attention
+Event-Driven Query Expansion
+An Efficient and Effective Framework for Session-based Social Recommendation
+Split-Treatment Analysis to Rank Heterogeneous Causal Effects for Prospective Interventions
+Explain and Predict, and then Predict Again
+Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings
+Practical Compositional Fairness: Understanding Fairness in Multi-Component Recommender Systems
+Towards Long-term Fairness in Recommendation
+Online Post-Processing in Rankings for Fair Utility Maximization
+Unifying Online and Counterfactual Learning to Rank: A Novel Counterfactual Estimator that Effectively Utilizes Online Interventions
+Bias-Variance Decomposition for Ranking
+Non-Clicks Mean Irrelevant? Propensity Ratio Scoring As a Correction
+Unbiased Learning to Rank in Feeds Recommendation
+Interpretable Ranking with Generalized Additive Models
+Improving Cloud Storage Search with User Activity
+Temporal Cross-Effects in Knowledge Tracing
+FACE-KEG: Fact Checking Explained using KnowledgE Graphs
+Learning Dynamic Embeddings for Temporal Knowledge Graphs
+Personalized Food Recommendation as Constrained Question Answering over a Large-scale Food Knowledge Graph
+Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals
+Beyond Relevance: Trustworthy Answer Selection via Consensus Verification
+Long Horizon Forecasting with Temporal Point Processes
+Time-Series Event Prediction with Evolutionary State Graph
+F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams
+Sparse-Interest Network for Sequential Recommendation
+Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns to Attend to Important Variables As Well As Time Intervals
+Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction
+Bipartite Graph Embedding via Mutual Information Maximization
+Centrality with Diversity
+Filter Pruning via Probabilistic Model-based Optimization for Accelerating Deep Convolutional Neural Networks
+Federated Deep Knowledge Tracing
+Fast Disjunctive Candidate Generation Using Live Block Filtering
+Say No to the Discrimination: Learning Fair Graph Neural Networks with Limited Sensitive Attribute Information
+A Unifying Framework to Identify Dense Subgraphs on Streams: Graph Nuclei to Hypergraph Cores
+Adversarial Immunization for Certifiable Robustness on Graphs
+Triangular Bidword Generation for Sponsored Search Auction
+Learning User Representations with Hypercuboids for Recommender Systems
+Heterogeneous Hypergraph Embedding for Graph Classification
+Local Collaborative Autoencoders
+Exploring the Subgraph Density-Size Trade-off via the Lovaśz Extension
+Balance Maximization in Signed Networks via Edge Deletions
+DeepIS: Susceptibility Estimation on Social Networks
+Hierarchical Metadata-Aware Document Categorization under Weak Supervision
+Learning to Drop: Robust Graph Neural Network via Topological Denoising
+AutoCite: Multi-Modal Representation Fusion for Contextual Citation Generation
+Unsupervised Attributed Network Embedding via Cross Fusion
+Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network
+Joint Subgraph-to-Subgraph Transitions: Generalizing Triadic Closure for Powerful and Interpretable Graph Modeling
+FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection
+GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks
+CalibreNet: Calibration Networks for Multilingual Sequence Labeling
+Modeling Context Pair Interaction for Pairwise Tasks on Graphs
+HeteGCN: Heterogeneous Graph Convolutional Networks for Text Classification
+Towards Scalable Spectral Embedding and Data Visualization via Spectral Coarsening
+I2PS: An Online Item Intelligent Publishing System in Consumer to Consumer (C2C) Transaction Platform
+FinSense: An Assistant System for Financial Journalists and Investors
+TwiScraper: A Collaborative Project to Enhance Twitter Data Collection
+SoMin.ai: Personality-Driven Content Generation Platform
+ColorfulFeedback: Enhancing Interest Prediction Performance through Multi-dimensional Labeled Feedback from Users
+WULAI-QA: Web Understanding and Learning with AI towards Document-based Question Answering against COVID-19
+Category Recognition in E-Commerce using Sequence-to-Sequence Hierarchical Classification
+AnaSearch: Extract, Retrieve and Visualize Structured Results from Unstructured Text for Analytical Queries
+A Practical Federated Learning Framework for Small Number of Stakeholders
+GPR: Global Personalized Restaurant Recommender System Leveraging Billions of Financial Transactions
+Birdspotter: A Tool for Analyzing and Labeling Twitter Users
+DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving
+Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph
+β-Cores: Robust Large-Scale Bayesian Data Summarization in the Presence of Outliers
+How to Measure Your App: A Couple of Pitfalls and Remedies in Measuring App Performance in Online Controlled Experiments
+Decomposed Collaborative Filtering: Modeling Explicit and Implicit Factors For Recommender Systems
+Explainable Recommendation with Comparative Constraints on Product Aspects
+Mining the Stars: Learning Quality Ratings with User-facing Explanations for Vacation Rentals
+Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction
+Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising
+Enhancing Neural Recommender Models through Domain-Specific Concordance
+QueryBlazer: Efficient Query Autocompletion Framework
+Explanation as a Defense of Recommendation
+Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks
+Toward User Engagement Optimization in 2D Presentation
+Temporal Meta-path Guided Explainable Recommendation
+WoMG: A Library for Word-of-Mouth Cascades Generation
+All the Wiser: Fake News Intervention Using User Reading Preferences
+Community Connect: A Mock Social Media Platform to Study Online Behavior
+Exploring Personal Knowledge Extraction from Conversations with CHARM
+Real-time Streaming of Gait Assessment for Parkinson's Disease
+AttentionFlow: Visualising Influence in Networks of Time Series
+Providing Actionable Feedback in Hiring Marketplaces using Generative Adversarial Networks
+Privacy Monitoring Service for Conversations
+Evently: Modeling and Analyzing Reshare Cascades with Hawkes Processes
+A Semantic Layer Querying Tool
+Data-Sharing Economy: Value-Addition from Data meets Privacy
+Multilingual and Multimodal Hate Speech Analysis in Twitter
+Deep Recommender Systems Utilizing Side Information
+Interpretability and Effectiveness of Machine Learning Methods for Sequence Mining in Various Domains
+Multimodal Machine Learning for Drug Knowledge Discovery
+Fairness-Aware Recommendation in Multi-Sided Platforms
+Graph Mining with Graph Neural Networks
+Towards Dynamic User Intention in Sequential Recommendation
+Personalization in Practice: Methods and Applications
+Deep Learning for Anomaly Detection: Challenges, Methods, and Opportunities
+WSDM 2021 Tutorial on Systematic Challenges and Computational Solutions on Bias and Unfairness in Peer Review
+WSDM 2021 Tutorial on Conversational Recommendation Systems
+Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
+Scalable Graph Neural Networks with Deep Graph Library
+Information to Wisdom: Commonsense Knowledge Extraction and Compilation
+Advances in Bias-aware Recommendation on the Web
+Neural Structured Learning: Training Neural Networks with Structured Signals
+Pretrained Transformers for Text Ranking: BERT and Beyond
+WebTour 2021 Workshop on Web Tourism
+Integrity 2021: Integrity in Social Networks and Media
+The 1st International Workshop on Machine Reasoning: International Machine Reasoning Conference (MRC 2021)
+Overview of the Supporting and Understanding of Conversational Dialogues (SUD) Workshop
+L2D 2021: First International Workshop on Enabling Data-Driven Decisions from Learning on the Web

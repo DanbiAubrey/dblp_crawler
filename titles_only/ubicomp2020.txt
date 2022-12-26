@@ -1,0 +1,139 @@
+UbiComp/ISWC '20: 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and 2020 ACM International Symposium on Wearable Computers, Virtual Event, Mexico, September 12-17, 2020
+Do we breathe the same air?
+Naqaab: towards health sensing and persuasion via masks
+Sleepy watch: towards predicting daytime sleepiness based on body temperature
+A preliminary attempt of an intelligent system predicting users' correctness of notifications' sender speculation
+Doze: hydrogel-based epidermal platform for personalized scent diffusion
+Effects of activity breakpoints on mobile crowdsourcing task performance
+Respiratory events screening using consumer smartwatches
+OfficeBP: noninvasive continuous blood pressure monitoring based on PPT in office environment
+Leveraging family force to assist adolescent patients in the treatment of technology abuse
+PizzaBox: studying physical object manipulation based fast food ordering
+Understanding barriers to medical instruction access for older adults: implications for AI-assisted tools
+Generic POI recommendation
+Estimation of wakefulness in video-based lectures based on multimodal data fusion
+Computational support for facilitating parental reflective functioning in everyday parent-child interaction
+Using gamification to create and label photos that are challenging for computer vision and people
+Comparing the effects of reference-based, orientation-based, and turn-by-turn navigation guidance on users' independent navigation
+Pose evaluation for dance learning application using joint position and angular similarity
+A preliminary investigation of the mismatch between attendance order and desired display order of smartphone notifications
+Anomaly detection for mobile devices in industrial internet
+Handwriting behavior as a self-confidence discriminator
+Dedicated algorithm based on discrete cosine transform for the analysis of industrial processes using ultrasound tomography
+SMAller aid: exploring shape-changing assistive wearables for people with mobility impairment
+Why doesn't the conversational agent understand me?: a language analysis of children speech
+Lifelog visualization based on social and physical activities
+IMception: camouflaging sensitive-apps' chat-screens with deceptive UIs
+The light: exploring socially improvised movements using wearable sensors in a performative installation
+The future of radio: combining music streaming with traditional terrestrial radio services
+Wearable epilepsy seizure monitor user interface evaluation: an evaluation of the empatica 'embrace' interface
+Personal laughter archives: reflection through visualization and interaction
+Adaptive biosignal data gathering for distributed and continual remote monitoring
+Implementing text-to-speech tools for community radio in remote regions of Romania
+Detecting and differentiating leg bouncing behaviour from everyday movements using tri-axial accelerometer data
+DOOM: a novel adversarial-DRL-based op-code level metamorphic malware obfuscator for the enhancement of IDS
+Exploring chatbot user interfaces for mood measurement: a study of validity and user experience
+Understanding routines around medicine intake through a data-enabled design approach
+Designing the catbus: interactive support for early childhood emotional well-being in education
+Evaluation of body-worn FPCBs with bluetooth low energy, capacitive touch, and resistive flex sensing
+Machine learning pathology detection with a body surface potential mapping
+Mobile vocabulometer: a context-based learning mobile application to enhance English vocabulary acquisition
+Appliance fingerprinting using sound from power supply
+A privacy-protecting indoor emergency monitoring system based on floor vibration
+AirTyping: a mid-air typing scheme based on leap motion
+HmwkCheck: a homework auto-checking system based on arithmetic operation recognition using smartphones
+VibroScale: turning your smartphone into a weighing scale
+Gamified navigation system: enhancing resident user experience in city exploration
+HeadgearX: a connected smart helmet for construction sites
+DeviceAR: techniques for device-oriented augmented reality interactions
+A low-cost prototyping framework for human-robot desk interaction
+A multi-person respiration monitoring system using COTS wifi devices
+Computational tools for understanding air pollution
+Audio AR to support nature connectedness in people with visual disabilities
+Towards a wearable system for assessing couples' dyadic interactions in daily life
+Providing architectural support for building privacy-sensitive smart home applications
+Intercultural usability of large public displays
+Deep generative cross-modal on-body accelerometer data synthesis from videos
+8th international workshop on human activity sensing corpus and applications (HASCA)
+MCoMat: a new performance metric for imbalanced multi-layer activity recognition dataset
+Identifying label noise in time-series datasets
+Mental stress classification during a motor task in older adults using an artificial neural network
+ActivityGAN: generative adversarial networks for data augmentation in sensor-based human activity recognition
+Improving activity data collection with on-device personalization using fine-tuning
+Using iOS for inconspicuous data collection: a real-world assessment
+Social distancing warning system at public transportation by analyzing wi-fi signal from mobile devices
+CausalBatch: solving complexity/performance tradeoffs for deep convolutional and LSTM networks for wearable activity recognition
+Action recognition using spatially distributed radar setup through microdoppler signature
+ARM cortex M4-based extensible multimodal wearable platform for sensor research and context sensing from motion & sound
+Perception of interaction between hand and object
+Ensemble approach for sensor-based human activity recognition
+Where are you?: human activity recognition with smartphone sensor data
+Combining LSTM and CNN for mode of transportation classification from smartphone sensors
+Smartphone location identification and transport mode recognition using an ensemble of generative adversarial networks
+A multi-view architecture for the SHL challenge
+Tackling the SHL challenge 2020 with person-specific classifiers and semi-supervised learning
+Activity recognition for locomotion and transportation dataset using deep learning
+Ensemble learning for human activity recognition
+UPIC: user and position independent classical approach for locomotion and transportation modes recognition
+Hierarchical classification using ML/DL for sussex-huawei locomotion-transportation (SHL) recognition challenge
+Summary of the sussex-huawei locomotion-transportation recognition challenge 2020
+Tackling the SHL recognition challenge with phone position detection and nearest neighbour smoothing
+Human activity recognition using multi-input CNN model with FFT spectrograms
+IndRNN based long-term temporal recognition in the spatial and frequency domain
+DenseNetX and GRU for the sussex-huawei locomotion-transportation recognition challenge
+Summary of the 2nd nurse care activity recognition challenge using lab and field data
+Complex nurse care activity recognition using statistical features
+A window-based sequence-to-one approach with dynamic voting for nurse care activity recognition using acceleration-based wearable sensor
+A pragmatic signal processing approach for nurse care activity recognition using classical machine learning
+Nurse care activity recognition based on machine learning techniques using accelerometer data
+Feature based random forest nurse care activity recognition using accelerometer data
+Nurse care activity recognition challenge: a comparative verification of multiple preprocessing approaches
+Nurse care activity recognition: using random forest to handle imbalanced class problem
+Nurse care activity recognition based on convolution neural network for accelerometer data
+UbiTtention 2020: 5th International Workshop on Smart & Ambient Notification and Attention Management
+Trading energy for accuracy in mobile interruptiblity inference
+Enticing notification text & the impact on engagement
+Blink rate variability: a marker of sustained attention during a visual task
+Cognitive load detection from wrist-band sensors
+Deep learning for cognitive load monitoring: a comparative evaluation
+A preliminary study of an intelligent system facilitating selective notification attendance on smartphones via alert assistance
+5th international workshop on mental health and well-being: sensing and intervention
+The affinity platform: service-oriented architecture based on abstraction of connection
+Comparing speech recognition services for HCI applications in behavioral health
+WatchOver: using Apple watches to assess and predict substance co-use in young adults
+Alexa depression and anxiety self-tests: a preliminary analysis of user experience and trust
+TangToys: smart toys to communicate and improve children's wellbeing
+CPD 2020: the 3rd international workshop on combining physical and data-driven knowledge in ubiquitous computing
+ProxiTrak: a robust solution to enforce real-time social distancing & contact tracing in enterprise scenario
+Occu-track: occupant presence sensing and trajectory detection using non-intrusive sensors in buildings
+MD-Vibe: physics-informed analysis of patient-induced structural vibration data for monitoring gait health in individuals with muscular dystrophy
+SCSV2: physics-informed self-configuration sensing through vision and vibration context modeling
+Detecting group sizes and human-centered interaction using 3D stereo vision cameras
+How particle detector can aid visual inspection for defect detection of TFT-LCD manufacturing
+A physical knowledge-based extreme learning machine approach to fault diagnosis of rolling element bearing from small datasets
+Collaborative edge-network content replication: a joint user preference and mobility approach
+Malware detection using artificial bee colony algorithm
+LATEST: a learning-based automated thermal environment control system
+A generative simulation platform for multi-agent systems with incentives
+A two-stage data-driven multi-energy management considering demand response
+SParking: a win-win data-driven contract parking sharing system
+Relay strategy in online mobile games: a data-driven approach
+CML-IOT 2020: the second workshop on continual and multimodal learning for internet of things
+Accurate trajectory prediction in a smart building using recurrent neural networks
+Space utilization and activity recognition using 3D stereo vision camera inside an educational building
+Evaluation of federated learning aggregation algorithms: application to human activity recognition
+Fine-grained activities recognition with coarse-grained labeled multi-modal data
+RCH: robust calibration based on historical data for low-cost air quality sensor deployments
+Digital twin: a machine learning approach to predict individual stress levels in extreme environments
+Spinal curve assessment of idiopathic scoliosis with a small dataset via a multi-scale keypoint estimation approach
+WellComp 2020: third international workshop on computing for well-being
+Smartphone usage behavior between depressed and non-depressed students: an exploratory study in the context of Bangladesh
+Emotional well-being in smart environments: an experiment with EEG
+Towards estimating UV light intensity using GPS signal strength
+Improving fine-tuned question answering models for electronic health records
+Behavification: bypassing human's attentional and cognitive systems for automated behavior change
+Estimating symptoms caused by CIPN using mobile and wearable devices
+Towards understanding smartphone usage and sleep with a crowdsensing approach
+Facial expression based satisfaction index for empathic buildings
+A first step towards on-device monitoring of body sounds in the wild
+Scalable selection of EEG features for compression

@@ -1,0 +1,49 @@
+ISWC 2021: Proceedings of the 2021 ACM International Symposium on Wearable Computers, Virtual Event, September 21-26, 2021
+Fast Deep Neural Architecture Search for Wearable Activity Recognition by Early Prediction of Converged Performance
+Improving Deep Learning for HAR with Shallow LSTMs
+On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition
+Using additional training sensors to improve single-sensor complex activity recognition
+Self-supervised Human Activity Recognition by Learning to Predict Cross-Dimensional Motion
+Cardiopulmonary Resuscitation Support: Comparison of Wrist-, Chest-, and Ear-Worn Devices and Estimation Algorithms
+Detecting Freezing of Gait with Earables Trained from VR Motion Capture Data
+Assisting Motor Skill Transfer for Dance StudentsUsing Wearable Feedback
+A Pilot Study using Covert Visuospatial Attention as an EEG-based Brain Computer Interface to Enhance AR Interaction
+Tunnel Vision - Dynamic Peripheral Vision Blocking Glasses for Reducing Motion Sickness Symptoms
+Accurate Reaction Times on Smartphones: The Challenges of Developing a Mobile Psychomotor Vigilance Task
+Mindless Load Changer: A Method for Manipulating Load Perception by Feedback of Myoelectricity Sensor Information
+A Method to Manipulate Subjective Time by using Tactile Stimuli of Wearable Device
+Where Should I Look? Comparing Reference Frames for Spatial Tactile Cues
+Simulation of Garment-Embedded Contact Sensor Performance under Motion Dynamics
+MoCapaci: Posture and gesture detection in loose garments using textile cables as capacitive antennas
+A 10-Year Review of the Methods and Purposes of On-Skin Interface Research in ACM SIGCHI
+Delocalizing Strain in Interconnected Joints of On-Skin Interfaces
+Exploiting the Slowness of Electrochromic Displays
+IBSync: Intra-body Synchronization of Wearable Devices Using Artificial ECG Landmarks
+HeatSight: Wearable Low-power Omni Thermal Sensing
+Brainwear: Towards Multi-modal Garment Integrated EEG
+disp2ppg: Pulse Wave Generation to PPG Sensor using Display
+Audio-Based Onset Detection applied to Chewing Cycle Segmentation
+Towards Automated Fatigue Assessment using Wearable Sensing and Mixed-Effects Models
+A Transformer Architecture for Stress Detection from ECG
+Feedback of Head Gestures in Audio-haptic Remote Communication
+Person-identification Methodusing Active Acoustic Sensing Applied to Nose
+RFInsole: Batteryless Gait-Monitoring Smart Insole Based on Passive RFID Tags
+WeakCounter: Acceleration-based Repetition Counting of Actions with Weakly Supervised Learning
+Estimating Upper Arm sEMG from Wrist PPG
+Wearability and Comfort of Earables During Sleep
+VIDENS: Vision-based User Identification from Inertial Sensors
+Typing on Tap: Estimating a Finger-Worn One-Handed Chording Keyboard's Text Entry Rate
+MOTUS: Rendering Emotions with a Wrist-worn Tactile Display
+Doki Doki: A Modular Wearable for Social Interaction in the COVID Era and Beyond
+VäriWig: Interactive Coloring Wig Module
+Dynamic, Discreet, Robotic Compression Garment for Real-Time Stress Assessment and Intervention
+Masquare: A Functional Smart Mask Design for Health Monitoring
+Design of a Hybrid SMA-Pneumatic based Wearable Upper Limb Exoskeleton
+CalmWear: A Smart Tactile Sensory Stimulation Clothing
+BLInG: Beads-Laden Interactive Garment
+Solar Scarf: Expanding DIY educational content with an expressive wearable system
+Development of an Aesthetic for a Stroke Rehabilitation System
+User-Controlled Multi-Zone Jacket for Thermal Microclimate Regulation
+CJ-2050: Body Cooling Wearable Technology
+Sensing Textures: Tactile Resistance
+TheraTrousers: Reactive wearable for playful therapeutic self-empowerment: Wearable for Therapeutic Exercising
